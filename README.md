@@ -8,7 +8,7 @@ A cool [Jekyll](https://jekyllrb.com) theme designed for people who like the aes
 3. GCC and Make
 
 # Usage
-1. `git clone https://github.com/Snowflake6413/a-cool-theme`
+1. `git clone https://github.com/Snowflake6413/mocha-theme`
 2. Run `gem install jekyll`, then `jekyll serve` to see the cool theme!
 
 Made with ❤️. Check out [Tonic](https://tonic.hackclub.com/) by [Hack Club](http://hackclub.com/) to learn how to make your own theme!
