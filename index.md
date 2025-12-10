@@ -1,7 +1,8 @@
 ---
-title: home
+title: Mocha Theme | Home
 layout: default
 ---
+[Home](/) [About](/about) [Detailed Showcase](/showcase)
 
 # mocha-theme
 *mocha-theme* is a theme made for people who like the colors of coffee/mocha.
