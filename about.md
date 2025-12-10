@@ -1,9 +1,9 @@
 ---
-title: Mocha Theme | About
+title: About
 layout: default
 permalink: /about/
 ---
-
+[Home](/) [About](/about) [Detailed Showcase](/showcase) [Example Portfolio](/portfolio)
 
 # About the developer!
 

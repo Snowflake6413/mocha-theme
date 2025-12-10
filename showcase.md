@@ -1,8 +1,9 @@
 ---
-title: Mocha Theme | Showcase
+title: Showcase
 layout: default
 permalink: /showcase
 ---
+[Home](/) [About](/about) [Detailed Showcase](/showcase) [Example Portfolio](/portfolio)
 
 Detailed Showcase for this theme!
 
@@ -18,4 +19,8 @@ Detailed Showcase for this theme!
 ***Bold and Italic***
 
 ~~Strikethrough~~
+
+`code block`
+
+
 

@@ -3,6 +3,18 @@ body {
   font-family: "Shadows Into Light Two";
   margin: auto;
   max-width: 70ch;
-  font-size: 25px;
+  font-size: 22px;
   color: #a8621d;
+}
+
+.circle-img {
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  text-align: center;
+}
+
+.center{
+  text-align: center;
 }

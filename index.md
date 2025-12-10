@@ -1,13 +1,13 @@
 ---
-title: Mocha Theme | Home
+title: Home
 layout: default
 ---
-[Home](/) [About](/about) [Detailed Showcase](/showcase)
+[Home](/) [About](/about) [Detailed Showcase](/showcase) [Example Portfolio](/portfolio)
 
 # mocha-theme
 *mocha-theme* is a theme made for people who like the colors of coffee/mocha.
 
-##### Showcase
+##### Short Showcase
 
 A recipe for a *nice* mocha!
 
@@ -20,3 +20,5 @@ Ingredients:
 1. Gather your ingredients!
 2. Pour hot coffee into a mug. Stir in your coca, sugar and milk.
 3. **Enjoy!**
+
+[! Powered By Jekyll](https://img.shields.io/badge/powered-by_Jekyll-red)
