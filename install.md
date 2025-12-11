@@ -7,14 +7,16 @@ permalink: /install
 [Home](/) [About](/about) [Detailed Showcase](/showcase) [Example Portfolio](/portfolio) [Install!](/install) [Links](/links) [Example Blog Post](/demo-blog)
 
 
-# Installing the mocha-theme
+# Installation Docs
+
+## Requirements
 
 There is some prerequisites if you want to install this theme.
 
-- Ruby (!!!)
+- Ruby (Ver 2.70 or higher)
     - Jekyll runs on Ruby! So you need to [install Ruby](https://www.ruby-lang.org/en/downloads/) first! 
-
-
+- RubyGems
+- GCC and Make   
 
 ## Quick Start
 
@@ -44,3 +46,14 @@ bundle exec jekyll serve
 
 - PROFIT! 
 Now enjoy the feeling of mocha on your site.
+
+
+Remember, Google is your best friend! So, use Google if you dont know how to x and y with your theme. Also, visit the [Jekyll Docs](https://jekyllrb.com/docs/)
+
+## Tips & Tricks when using Jekyll
+
+- Jekyll uses Markdown so you can edit your webpages!
+  - You can visit [Markdown Guide](https://markdownguide.org) to learn Markdown!
+  - It's simple, so I know you can learn easy!
+
+-

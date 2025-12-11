@@ -7,6 +7,8 @@ layout: default
 # mocha-theme
 *mocha-theme* is a theme made for people who like the colors of coffee/mocha.
 
+'Enjoy a hot cup of mocha, just for you!'
+
 ##### Short Showcase
 
 A recipe for a *nice* mocha!

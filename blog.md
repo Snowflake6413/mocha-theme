@@ -4,6 +4,8 @@ layout: default
 permalink: /demo-blog
 ---
 
+[Home](/) [About](/about) [Detailed Showcase](/showcase) [Example Portfolio](/portfolio) [Install!](/install) [Links](/links) [Example Blog Post](/demo-blog)
+
 # Example Blog
 
 ## Why am I cool beans?
