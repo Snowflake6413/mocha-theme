@@ -12,7 +12,36 @@ A cool [Jekyll](https://jekyllrb.com) theme designed for people who like the aes
 2  RubyGems
 
 # Quick Start
-1. `git clone https://github.com/Snowflake6413/mocha-theme`
-2. Run `gem install jekyll`, then `jekyll serve` to see the cool theme!
 
+1. Add this line to your `Gemfile`
+
+```ruby
+gem "mocha-theme"
+```
+
+2. Add this line to your `_config.yml`
+
+```ruby
+theme: mocha-theme
+```
+
+3. Install it!
+
+```bash
+bundle install
+```
+
+4. Serve your website
+
+```bash
+bundle exec jekyll serve
+````
+
+
+### License
+
+This repository is licensed under the MIT License. Read [LICENSE](LICENSE) for more information.
+
+
+#### Extra
 Made with ❤️. Check out [Tonic](https://tonic.hackclub.com/) by [Hack Club](http://hackclub.com/) to learn how to make your own theme!

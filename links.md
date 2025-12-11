@@ -3,6 +3,7 @@ title: Links
 layout: default
 permalink: /links
 ---
+[Home](/) [About](/about) [Detailed Showcase](/showcase) [Example Portfolio](/portfolio) [Install!]
 
 ### Links that are relevant
 

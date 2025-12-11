@@ -3,7 +3,7 @@ title: Example Portfolio
 layout: default
 permalink: /portfolio
 ---
-[Home](/) [About](/about) [Detailed Showcase](/showcase) [Example Portfolio](/portfolio) [Install!](/install) [Links](/links)
+[Home](/) [About](/about) [Detailed Showcase](/showcase) [Example Portfolio](/portfolio) [Install!](/install) [Links](/links) [Example Blog Post](/demo-blog)
 
 #### Example Portfolio
 {: .center}

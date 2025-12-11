@@ -3,9 +3,14 @@ title: About
 layout: default
 permalink: /about/
 ---
-[Home](/) [About](/about) [Detailed Showcase](/showcase) [Example Portfolio](/portfolio) [Install!](/install) [Links](/links)
+[Home](/) [About](/about) [Detailed Showcase](/showcase) [Example Portfolio](/portfolio) [Install!](/install) [Links](/links) [Example Blog Post](/demo-blog)
 
 # About this theme
+Why did I choose this theme for Tonic?
+Well, it's because I like mocha. Even though I dont drink much mocha and not much of a coffee addict, I like to get a cup of mocha in a occassion. So, I thought that I should do a mocha like theme for Tonic.
+
+I had different ideas but mocha is the perferred theme!
+
 
 # About the developer!
 

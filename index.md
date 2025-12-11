@@ -2,7 +2,7 @@
 title: Home
 layout: default
 ---
-[Home](/) [About](/about) [Detailed Showcase](/showcase) [Example Portfolio](/portfolio) [Install!](/install) [Links](/links)
+[Home](/) [About](/about) [Detailed Showcase](/showcase) [Example Portfolio](/portfolio) [Install!](/install) [Links](/links) [Example Blog Post](/demo-blog)
 
 # mocha-theme
 *mocha-theme* is a theme made for people who like the colors of coffee/mocha.
