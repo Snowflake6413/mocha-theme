@@ -10,9 +10,8 @@ A cool [Jekyll](https://jekyllrb.com) theme designed for people who like the aes
 # Prerequisites
 1. [Ruby](https://www.ruby-lang.org/en/) Version 2.70 or higher.
 2  RubyGems
-3. GCC and Make
 
-# Usage
+# Quick Start
 1. `git clone https://github.com/Snowflake6413/mocha-theme`
 2. Run `gem install jekyll`, then `jekyll serve` to see the cool theme!
 

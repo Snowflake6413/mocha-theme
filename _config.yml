@@ -1,5 +1,7 @@
 title: mocha-theme
 description: "A pleasant Jekyll theme for Coffee/Mocha lovers."
 encoding: utf-8
+markdown: kramdown
+highlighter: rogue
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]

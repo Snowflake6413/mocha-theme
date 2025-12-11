@@ -2,7 +2,7 @@
 title: Home
 layout: default
 ---
-[Home](/) [About](/about) [Detailed Showcase](/showcase) [Example Portfolio](/portfolio) [Install!](/install)
+[Home](/) [About](/about) [Detailed Showcase](/showcase) [Example Portfolio](/portfolio) [Install!](/install) [Links](/links)
 
 # mocha-theme
 *mocha-theme* is a theme made for people who like the colors of coffee/mocha.
@@ -20,3 +20,9 @@ Ingredients:
 1. Gather your ingredients!
 2. Pour hot coffee into a mug. Stir in your coca, sugar and milk.
 3. **Enjoy!**
+
+
+
+I hope you enjoy this theme! :heart:
+
+Check out [Tonic](https://tonic.hackclub.com/) by [Hack Club](http://hackclub.com/) to learn how to make your own Jekyll theme! (for free!)

@@ -3,7 +3,7 @@ title: Example Portfolio
 layout: default
 permalink: /portfolio
 ---
-[Home](/) [About](/about) [Detailed Showcase](/showcase) [Example Portfolio](/portfolio) [Install!](/install)
+[Home](/) [About](/about) [Detailed Showcase](/showcase) [Example Portfolio](/portfolio) [Install!](/install) [Links](/links)
 
 #### Example Portfolio
 {: .center}
@@ -23,7 +23,32 @@ John Doe helps with projects in Acme Corp. He is proficient in these programming
 * HTML/CSS
 * Ruby
 
+##### Contact Me
+
+[johndoe@examply.com](mailto:johndoe@examply.com)
+[+ 1 (555) 555-5555](tel:+15555555555)
+
 ##### Education
 
 * 2020 - Graudated from Acme University with a Bachelor's degree in Computer Science.
 
+
+##### Work Experiences
+
+- Example Corp
+    - Worked as a software developer intern at the largest tech companies in the world
+
+
+##### References
+
+- Jane Doe
+   - Biology Professor at Acme University
+   - [+1 (123) 456-7890)](tel:+11234567890)
+   - [janedoe@examply.com](mailto:janedoe@examply.com)
+
+
+- Paul Doe
+  - CTO at Example Corp.
+  - [+1 (202) 202-2000](tel:+12022022000)
+  - [pauldoe@acme.com](mailto:pauldoe@acme.com)
+ 
