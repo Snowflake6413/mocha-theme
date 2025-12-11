@@ -3,7 +3,7 @@ title: Showcase
 layout: default
 permalink: /showcase
 ---
-[Home](/) [About](/about) [Detailed Showcase](/showcase) [Example Portfolio](/portfolio)
+[Home](/) [About](/about) [Detailed Showcase](/showcase) [Example Portfolio](/portfolio) [Install!](/install)
 
 Detailed Showcase for this theme!
 
@@ -22,5 +22,9 @@ Detailed Showcase for this theme!
 
 `code block`
 
+> This is a blockquote.
+>
+>
+> You are loved!
 
 

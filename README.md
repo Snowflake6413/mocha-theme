@@ -1,5 +1,10 @@
 # mocha-theme
 
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
+
 A cool [Jekyll](https://jekyllrb.com) theme designed for people who like the aesthetic or colors of *Mocha/Coffee.*
 
 # Prerequisites

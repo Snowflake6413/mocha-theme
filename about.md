@@ -3,7 +3,7 @@ title: About
 layout: default
 permalink: /about/
 ---
-[Home](/) [About](/about) [Detailed Showcase](/showcase) [Example Portfolio](/portfolio)
+[Home](/) [About](/about) [Detailed Showcase](/showcase) [Example Portfolio](/portfolio) [Install!](/install)
 
 # About the developer!
 
