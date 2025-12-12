@@ -12,6 +12,6 @@ permalink: /links
 * [Hack Club](https://hackclub.com)
 * [Jekyll](https://jekyllrb.com)
 * [Ruby](https://www.ruby-lang.org)
-* [This theme's rubygems](https://cooley.com)
+* [This theme's rubygems](https://rubygems.org/gems/mocha-theme)
 
 
