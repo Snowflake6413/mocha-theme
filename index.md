@@ -5,7 +5,7 @@ layout: default
 [Home](/) [About](/about) [Detailed Showcase](/showcase) [Example Portfolio](/portfolio) [Install!](/install) [Links](/links) [Example Blog Post](/demo-blog)
 
 # mocha-theme
-*mocha-theme* is a theme made for people who like the colors of coffee/mocha.
+*mocha-theme* is a [Jekyll](https://jekyllrb.com) theme made for people who like the colors of coffee/mocha.
 
 'Enjoy a hot cup of mocha, just for you!'
 

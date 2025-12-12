@@ -41,3 +41,6 @@ Detailed Showcase for this theme!
 Text with footnote[^1].
 
 [^1]: Hallo!
+
+Embedding Images
+![tabby](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fworldanimalfoundation.org%2Fwp-content%2Fuploads%2F2023%2F12%2Ftypes-of-tabby-cats-1.jpg&f=1&nofb=1&ipt=7bbb7bbdc86fd54b62bfdd186e783d4273317f0b9acaaca06fe13153bd98c5df)
