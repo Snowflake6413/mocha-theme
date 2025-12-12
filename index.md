@@ -2,7 +2,7 @@
 title: Home
 layout: default
 ---
-[Home](/) [About](/about) [Detailed Showcase](/showcase) [Example Portfolio](/portfolio) [Install!](/install) [Links](/links) [Example Blog Post](/demo-blog)
+[Home]({{ '/' | relative_url }}) [About]({{ '/about' | relative_url }}) [Detailed Showcase]({{ '/showcase' | relative_url }}) [Example Portfolio]({{ '/portfolio' | relative_url }}) [Install!]({{ '/install' | relative_url }}) [Links]({{ '/links' | relative_url }}) [Example Blog Post]({{ '/demo-blog' | relative_url }})
 
 # mocha-theme
 *mocha-theme* is a [Jekyll](https://jekyllrb.com) theme made for people who like the colors of coffee/mocha.

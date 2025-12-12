@@ -1,4 +1,5 @@
 title: mocha-theme
+baseurl: "/mocha-theme"
 description: "A pleasant Jekyll theme for Coffee/Mocha lovers."
 encoding: utf-8
 markdown: kramdown
