@@ -3,7 +3,7 @@
 
 Gem::Specification.new do |spec|
   spec.name = "mocha-theme"
-  spec.version = "0.1.0"
+  spec.version = "0.1.1"
   spec.authors = ["Snowflake6413"]
   spec.email = ["goodyforprivacy.fender966@passinbox.com"]
 
