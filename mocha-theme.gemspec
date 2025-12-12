@@ -3,10 +3,10 @@
 
 Gem::Specification.new do |spec|
   spec.name = "mocha-theme"
-  spec.version = "0.1.1"
+  spec.version = "0.1.2"
   spec.authors = ["Snowflake6413"]
   spec.email = ["goodyforprivacy.fender966@passinbox.com"]
-
+  spec.metadata = { "github_repo" => "ssh://github.com/snowflake6413/mocha-theme" }
   spec.summary = "A Jekyll theme for people who like the themes of Mocha or coffee."
   spec.homepage = "https://github.com/Snowflake6413/mocha-theme"
   spec.license  = "MIT"
